@@ -1,4 +1,12 @@
-﻿using Xamarin.Forms;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ProjectV1.Views;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace ProjectV1
 {
@@ -9,7 +17,7 @@ namespace ProjectV1
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new LoginPage();
 
         }
 
