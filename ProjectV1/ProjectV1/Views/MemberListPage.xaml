@@ -6,7 +6,8 @@
         <StackLayout>
             <Label Text="Member List"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand" 
+                BackgroundColor="Green"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

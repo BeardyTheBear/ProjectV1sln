@@ -17,7 +17,7 @@ namespace ProjectV1
         {
             InitializeComponent();
 
-            MainPage = new LoginPage();
+            MainPage = new AppShell(); 
 
         }
 

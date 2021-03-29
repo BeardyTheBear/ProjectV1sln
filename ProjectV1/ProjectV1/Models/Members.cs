@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ProjectV1.Models
 {
-    class Constants
+    public class Members
     {
-        public static bool IsDev = true;
+
 
     }
 }
